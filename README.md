@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2> stat </h2>
 [![fDevJc's github stats](https://github-readme-stats.vercel.app/api?username=fDevJc)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fDevJc&show_icons=true&theme=tokyonight)
 <!---
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
