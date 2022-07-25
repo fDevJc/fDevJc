@@ -23,8 +23,16 @@ You can click the Preview link to take a look at your changes.
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 --->
 
-## 📖 Book
-
-- [RealMySQL](https://github.com/fDevJc/TIL/tree/main/BOOK/RealMySQL)
+## 📖 Book & Education
+### Framework
+- 토비의 스프링 3.1 Vol1
+- 토비의 스프링 3.1 Vol2
+- 스프링부트와 AWS로 혼자 구현하는 웹 서비스
+### Development
 - [EffectiveJava](https://github.com/fDevJc/TIL/tree/main/BOOK/effectivejava)
+- DDD START!
+### CS
+- 그림으로 공부하는 IT인프라 구조
+- 성공과 실패를 결정하는 1%의 네트워크 원리
 - [HTTP완벽가이드](https://github.com/fDevJc/TIL/tree/main/BOOK/HTTP%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C)
+- [RealMySQL](https://github.com/fDevJc/TIL/tree/main/BOOK/RealMySQL)
