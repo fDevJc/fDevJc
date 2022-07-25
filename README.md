@@ -6,28 +6,27 @@ fDevJc/fDevJc is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-## My tech stack 📚
+## 📚 My tech stack
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
+![SpringSecurity](https://img.shields.io/badge/-SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white)
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
-## Stat
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
 
+![IntelliJIDEA](https://img.shields.io/badge/-IntelliJ-4479A1?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
+
+
+## ⭐️ Stat
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fDevJc&show_icons=true&theme=tokyonight)
-<!---
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
---->
 
 ## 📖 Book & Education
 ### Framework
 - 토비의 스프링 3.1 Vol1
 - 토비의 스프링 3.1 Vol2
-- 스프링부트와 AWS로 혼자 구현하는 웹 서비스
+- [스프링부트와 AWS로 혼자 구현하는 웹 서비스](https://github.com/fDevJc/freelec-springboot2-webservice)
 ### Development
 - [EffectiveJava](https://github.com/fDevJc/TIL/tree/main/BOOK/effectivejava)
 - DDD START!
