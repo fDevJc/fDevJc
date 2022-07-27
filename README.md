@@ -30,6 +30,9 @@ You can click the Preview link to take a look at your changes.
 ### Development
 - [EffectiveJava](https://github.com/fDevJc/TIL/tree/main/BOOK/effectivejava)
 - DDD START!
+- Clean Code
+- 헤드 퍼스트 디자인패턴
+- 리팩터링 2판
 ### CS
 - 그림으로 공부하는 IT인프라 구조
 - 성공과 실패를 결정하는 1%의 네트워크 원리
