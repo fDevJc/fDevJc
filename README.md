@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @fDevJc
 - 👀 I’m interested in TDD, DDD
 
-<!---
 fDevJc/fDevJc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 
 ## 📚 My tech stack
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
@@ -22,6 +21,7 @@ You can click the Preview link to take a look at your changes.
 ## ⭐️ Stat
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fDevJc&show_icons=true&theme=tokyonight)
 
+<!--
 ## 📖 Book & Education
 ### Framework
 - 토비의 스프링 3.1 Vol1
@@ -39,3 +39,4 @@ You can click the Preview link to take a look at your changes.
 - 성공과 실패를 결정하는 1%의 네트워크 원리
 - [HTTP완벽가이드](https://github.com/fDevJc/TIL/tree/main/BOOK/HTTP%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C)
 - [RealMySQL](https://github.com/fDevJc/TIL/tree/main/BOOK/RealMySQL)
+-->
