@@ -2,18 +2,26 @@
 - 👀 I’m interested in TDD, DDD
 
 ## 📚 My tech stack
+### Backend
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
-![SpringCloud](https://img.shields.io/badge/-SpringCloud-6DB33F?style=for-the-badge&logo=SpringCloud&logoColor=white)
-![SpringSecurity](https://img.shields.io/badge/-SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white)
 
+### DevOps
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
 
+### Collaboration & Tools
 ![IntelliJIDEA](https://img.shields.io/badge/-IntelliJ-4479A1?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 
 ## ⭐️ Stat
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fDevJc&show_icons=true&theme=tokyonight)
